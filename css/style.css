@@ -3,7 +3,8 @@ body{
     border: 0cap;
 }
 a{
-    text-decoration-line: none;
+    
+    color: black;
 }
 body > h1{
     display: flex;
@@ -89,7 +90,7 @@ main section ~ section{
 }
 p{
     line-height: 120%;
-    text-align: justify;
+    text-align: left;
     font-size: 140%;
 }
 footer{
